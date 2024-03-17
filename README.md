@@ -42,8 +42,8 @@ To get started with this repository, follow these steps:
 
 1. Clone the Repository: Clone this repository to your local machine using:
 
-```agsl
-git clone https://github.com/your-username/sorting-algorithms-playground.git
+```
+git clone https://github.com/oURMIo/types-of-sorting.git
 ```
 
 2. Choose an Algorithm: Navigate to the directory of the sorting algorithm you want to explore.
